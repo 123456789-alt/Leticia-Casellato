@@ -53,7 +53,7 @@
    <li>Nunjucks</li>
    <li>SQlite</li>
   </ul>
-</p>Desenvolvido por Leticia</p>
+</p>Desenvolvido por Leticia Casellato</p>
 <h2>
   <a id="user-content--preview" class="anchor" aria-hidden="true" href="#-preview">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
